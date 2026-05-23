@@ -6,4 +6,7 @@ These charts show Lana Del Rey's artistic development through her albums over a 
 Honeymoon stands out as the jazzy and cinematic piece of her art that's why its instrumentalness is at its peak compared to her other albums. 
 Danceability metrics measure how suitable a track is for dancing, using a scale from  0.0(least danceable) to 1.0 (most danceable). This algorithmic score is determined by analyzing a song's tempo, rhythmic stability, beat strength, and overall regularity.
 Liveness :  a metric that detects the presence of a live audience in a recording. It estimates the probability that a song was performed and recorded live versus being a traditional studio recording.
-Emotionak Intensity : I calculated emotional intensity of songs by averaging its valence and energy levels. 
+Emotional Intensity : I calculated emotional intensity of songs by averaging its valence and energy levels. 
+Tempo metrics measure the speed and rhythmic structure of a track, fundamentally dictating its emotional feel and physical impact.
+Intensity : the level of emotional power, force, or energy being expressed
+Instrumentalness :  a metric  that measures the likelihood a track contains no vocals.
