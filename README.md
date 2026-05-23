@@ -10,3 +10,5 @@ Emotional Intensity : I calculated emotional intensity of songs by averaging its
 Tempo metrics measure the speed and rhythmic structure of a track, fundamentally dictating its emotional feel and physical impact.
 Intensity : the level of emotional power, force, or energy being expressed
 Instrumentalness :  a metric  that measures the likelihood a track contains no vocals.
+Danceability and Emotional Intensity : When danceability and emotional intensity are combined, they create a song’s physical and psychological impact. Together, they form a matrix that predicts exactly how a listener will react both in their body and in their mind.
+Musical Key : musical key is the specific musical family of notes that a song uses to build its melody and harmony.
