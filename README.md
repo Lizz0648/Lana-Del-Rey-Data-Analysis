@@ -12,3 +12,5 @@ Intensity : the level of emotional power, force, or energy being expressed
 Instrumentalness :  a metric  that measures the likelihood a track contains no vocals.
 Danceability and Emotional Intensity : When danceability and emotional intensity are combined, they create a song’s physical and psychological impact. Together, they form a matrix that predicts exactly how a listener will react both in their body and in their mind.
 Musical Key : musical key is the specific musical family of notes that a song uses to build its melody and harmony.
+<img width="1318" height="719" alt="image" src="https://github.com/user-attachments/assets/0b1b4ad1-b254-412f-ae2f-8e3b188e5976" />
+This scatter chart clearly shows that relationship between tempo and intensity is mainly linear and positive. But we see outliers, like "Burnt Norton"(interlude) and piano ballad "Love Song", they create specific, low-intensity acoustic clusters. 
